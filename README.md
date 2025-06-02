@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<p align="center">
+  My name is Shawn
+  <br />
+  Software Engineer @ BigCommerce
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" alt="Chill computer guy in chair sliding left to right" />
+</p>
+
 <!--
 **bc-shawnyap/bc-shawnyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
